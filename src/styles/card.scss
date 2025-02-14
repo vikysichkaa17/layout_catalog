@@ -97,7 +97,7 @@
     transform: scale(120%);
 
     .card__title {
-      transition: all $transition-time easy;
+      transition: all $transition-time ease;
       color: $title-changed-color;
     }
   }
